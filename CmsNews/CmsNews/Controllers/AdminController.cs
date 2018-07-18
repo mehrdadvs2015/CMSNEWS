@@ -12,6 +12,7 @@ namespace CmsNews.Controllers
         public ActionResult HomePage()
         {
             return View();
+            //test project in home
         }
     }
 }
