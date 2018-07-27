@@ -11,13 +11,12 @@ namespace CmsNews.Controllers
         // GET: Home
         public ActionResult Index()
         {
-            return View("Index1");
+            return View();
         }
         public ActionResult Login()
         {
             return View();
         }
-
 
     }
 }
